@@ -1,9 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2de212d-fefa-4ac7-be6c-f673c1eedd16" name="Default" comment="" />
+    <list default="true" id="c2de212d-fefa-4ac7-be6c-f673c1eedd16" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/ico/apple-touch-icon-72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cidades/bh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/bs-docs-masthead-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cidades/df.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/ico/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cidades/rio_de_janeiro.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cidades/salvador.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_inset-soft_95_fef1ec_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_f6cf3b_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/acessoNegado.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apagarContato.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/authSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/cabecalho_assincrono.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/cabecalho_bdcompleto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/cabecalho_bdsimples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/cabecalho_html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/cabecalho_login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cadastroNovoUsuario.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cadastroUsuario.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carrinho.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conf/confBD.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dadosAJAX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dadosJSON.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/daw_assincrono.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editarContato.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erroCadastro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erroEdicao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erroExclusao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erroInsercao.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/erroLogin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/estiloBasico.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/estiloCookie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/estiloDir.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/estiloEsq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/estiloIEC.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/exemploCookie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome-ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inserir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inserirContato.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-1.9.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/jquery-ui-1.10.0.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jquery-ui-1.10.0.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/jquery-ui-1.9.2.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/jquery.ui.1.10.0.ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-theme/jquery.ui.1.9.2.ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mainPageAJAX.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/google-code-prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/resForm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/rodape_bdcompleto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/rodape_bdsimples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/rodape_html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modelos/rodape_login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/sisCookie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/starter-template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styleGeneral.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/verificarLogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="vendapassagemaerea.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +131,136 @@
   <component name="FavoritesManager">
     <favorites_list name="vendapassagemaerea" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.692308" vertical-offset="491" max-vertical-offset="2312">
+              <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+              <folding>
+                <element signature="e#337#397#0#HTML" expanded="true" />
+                <element signature="e#552#588#0#HTML" expanded="true" />
+                <element signature="e#726#763#0#HTML" expanded="true" />
+                <element signature="e#1156#1178#0#HTML" expanded="true" />
+                <element signature="e#1274#1295#0#HTML" expanded="true" />
+                <element signature="e#2177#2199#0#HTML" expanded="true" />
+                <element signature="e#2296#2317#0#HTML" expanded="true" />
+                <element signature="e#3734#3756#0#HTML" expanded="true" />
+                <element signature="e#3854#3875#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styleGeneral.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/styleGeneral.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44786325" vertical-offset="452" max-vertical-offset="1071">
+              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainPageAJAX.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainPageAJAX.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="612">
+              <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cabecalho_assincrono.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modelos/cabecalho_assincrono.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.692307" vertical-offset="357" max-vertical-offset="1700">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carrinho.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carrinho.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-31.461538" vertical-offset="882" max-vertical-offset="1989">
+              <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cadastroUsuario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cadastroUsuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1071">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exemplo1.html" />
+        <option value="$PROJECT_DIR$/teste1.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/wwwwwww.html" />
+        <option value="$PROJECT_DIR$/apagarContato.php" />
+        <option value="$PROJECT_DIR$/authSession.php" />
+        <option value="$PROJECT_DIR$/bd-AJAX/conf/confBD.php" />
+        <option value="$PROJECT_DIR$/bd-AJAX/cadastroNovoUsuario.php" />
+        <option value="$PROJECT_DIR$/bd-AJAX/cadastroUsuario.php" />
+        <option value="$PROJECT_DIR$/bd-AJAX/index.php" />
+        <option value="$PROJECT_DIR$/acessoNegado.php" />
+        <option value="$PROJECT_DIR$/editar.php" />
+        <option value="$PROJECT_DIR$/erroExclusao.php" />
+        <option value="$PROJECT_DIR$/erroInsercao.php" />
+        <option value="$PROJECT_DIR$/erroLogin.php" />
+        <option value="$PROJECT_DIR$/mainPageAJAX.php" />
+        <option value="$PROJECT_DIR$/mainPageJson.php" />
+        <option value="$PROJECT_DIR$/modelos/rodape_bdcompleto.html" />
+        <option value="$PROJECT_DIR$/modelos/rodape_bdsimples.html" />
+        <option value="$PROJECT_DIR$/modelos/rodape_html.html" />
+        <option value="$PROJECT_DIR$/modelos/rodape_login.html" />
+        <option value="$PROJECT_DIR$/inserir.php" />
+        <option value="$PROJECT_DIR$/css/signin.css" />
+        <option value="$PROJECT_DIR$/modelos/cabecalho_bdcompleto.html" />
+        <option value="$PROJECT_DIR$/modelos/cabecalho_bdsimples.html" />
+        <option value="$PROJECT_DIR$/modelos/cabecalho_html.html" />
+        <option value="$PROJECT_DIR$/modelos/cabecalho_login.html" />
+        <option value="$PROJECT_DIR$/cadastroNovoUsuario.php" />
+        <option value="$PROJECT_DIR$/erroCadastro.php" />
+        <option value="$PROJECT_DIR$/erroEdicao.php" />
+        <option value="$PROJECT_DIR$/inserirContato.php" />
+        <option value="$PROJECT_DIR$/cadastroUsuario.php" />
+        <option value="$PROJECT_DIR$/carrinho.php" />
+        <option value="$PROJECT_DIR$/modelos/cabecalho_assincrono.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/styleGeneral.css" />
+      </list>
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -42,7 +269,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -66,6 +293,76 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modelos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cidades" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendapassagemaerea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -73,11 +370,60 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projetos\vendapassagemaerea\img\cidades" />
+      <recent name="C:\projetos\vendapassagemaerea" />
+      <recent name="C:\projetos\vendapassagemaerea\js" />
+      <recent name="C:\projetos\vendapassagemaerea\css" />
+      <recent name="C:\projetos\vendapassagemaerea\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projetos\vendapassagemaerea" />
+      <recent name="C:\projetos\vendapassagemaerea\paginas\conf" />
+      <recent name="C:\projetos\vendapassagemaerea\src" />
+      <recent name="C:\projetos\vendapassagemaerea\bootstrap\dist" />
+      <recent name="C:\projetos\vendapassagemaerea\bootstrap" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c2de212d-fefa-4ac7-be6c-f673c1eedd16" name="Default" comment="" />
@@ -88,28 +434,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2549168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -131,5 +478,372 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#337#397#0#HTML" expanded="true" />
+            <element signature="e#552#588#0#HTML" expanded="true" />
+            <element signature="e#726#763#0#HTML" expanded="true" />
+            <element signature="e#1156#1178#0#HTML" expanded="true" />
+            <element signature="e#1274#1295#0#HTML" expanded="true" />
+            <element signature="e#2177#2199#0#HTML" expanded="true" />
+            <element signature="e#2296#2317#0#HTML" expanded="true" />
+            <element signature="e#3734#3756#0#HTML" expanded="true" />
+            <element signature="e#3854#3875#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estiloBasico.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1224">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2" max-vertical-offset="714">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="248" max-vertical-offset="884">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="316" max-vertical-offset="901">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inserir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="765">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/1435197601.layoutit/layoutit/src/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/authSession.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acessoNegado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="425">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dadosAJAX.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.346153" vertical-offset="529" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dadosJSON.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0384614" vertical-offset="53" max-vertical-offset="969">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.423077" vertical-offset="644" max-vertical-offset="1190">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erroExclusao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="425">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erroInsercao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.769231" vertical-offset="0" max-vertical-offset="425">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erroLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="476">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/rodape_bdsimples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/rodape_html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="289">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/estiloBasico.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15726496" vertical-offset="78" max-vertical-offset="1224">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/signin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82564104" vertical-offset="248" max-vertical-offset="884">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/rodape_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33452594" vertical-offset="0" max-vertical-offset="559">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inserir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6849817" vertical-offset="0" max-vertical-offset="765">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/confBD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4539">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4148">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_bdsimples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.730769" vertical-offset="197" max-vertical-offset="1020">
+          <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_bdcompleto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="51" max-vertical-offset="1003">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.5" vertical-offset="316" max-vertical-offset="935">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/rodape_bdcompleto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27370304" vertical-offset="0" max-vertical-offset="559">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6690519" vertical-offset="153" max-vertical-offset="748">
+          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apagarContato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1054">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1396842834000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastroNovoUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="2006">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <marker date="1436109054219" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/editarContato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1396842918000" expanded="true" signature="-1:-1" placeholder="UPDATE conta..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erroCadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="425">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/erroEdicao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="425">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inserirContato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <marker date="1436109110129" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verificarLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1398175124000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..usuarios..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cadastroUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carrinho.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-31.461538" vertical-offset="882" max-vertical-offset="1989">
+          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainPageAJAX.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="612">
+          <caret line="14" column="66" selection-start-line="14" selection-start-column="66" selection-end-line="14" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modelos/cabecalho_assincrono.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="357" max-vertical-offset="1700">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.692308" vertical-offset="491" max-vertical-offset="2312">
+          <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
+          <folding>
+            <element signature="e#337#397#0#HTML" expanded="true" />
+            <element signature="e#552#588#0#HTML" expanded="true" />
+            <element signature="e#726#763#0#HTML" expanded="true" />
+            <element signature="e#1156#1178#0#HTML" expanded="true" />
+            <element signature="e#1274#1295#0#HTML" expanded="true" />
+            <element signature="e#2177#2199#0#HTML" expanded="true" />
+            <element signature="e#2296#2317#0#HTML" expanded="true" />
+            <element signature="e#3734#3756#0#HTML" expanded="true" />
+            <element signature="e#3854#3875#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styleGeneral.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44786325" vertical-offset="452" max-vertical-offset="1071">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

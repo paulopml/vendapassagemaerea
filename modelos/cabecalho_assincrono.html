@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../assets/ico/favicon.ico">
+
+    <title>Passagem Aérea</title>
+
+	<!-- Boostrap minified CSS -->
+	<link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="dist/css/bootstrap-theme.min.css">
+    
+    <!-- Custom styles for this template -->
+    <link href="css/starter-template.css" rel="stylesheet">
+      <link href="css/styleGeneral.css" rel="stylesheet">
+
+	<script src="js/daw_assincrono.js"></script>
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <script src="js/jquery-ui-1.9.2.custom.min.js"></script>
+    <script src="http://code.jquery.com/jquery-1.8.2.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.0/jquery-ui.js"></script>
+    <script>
+        $(function() {
+            $( "#calendario" ).datepicker();
+            $('#calendarioHotel').datepicker();
+        });
+    </script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+      <style>
+          .carousel-inner > .item > img,
+          .carousel-inner > .item > a > img {
+              width: 100%;
+              height: 270px;
+              margin: auto;
+          }
+      </style>
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Mudar navegação</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="./index.php">Home</a>
+        </div>
+		<div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="./cadastroUsuario.php">Cadastre-se</a></li>
+            <li><a href="" data-toggle="modal" data-target=".bs-example-modal-sm">login</a></li>
+              <!-- 	<li><a href="./logout.php">Sair</a></li> -->
+            <li><a href="./carrinho.php">Carrinho</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-content">
+                <form class="form-signin" role="form" method="post" action="./verificarLogin.php">
+                    <h3 class="form-signin-heading">Cadastro de cliente</h3>
+                    <input type="text" class="form-control" placeholder="Login" name="login" value="<?php echo $nomeUser?>"required autofocus>
+                    <input type="password" class="form-control" placeholder="Senha" name="passwd" required>
+                    <label>
+                        <input type="checkbox"  name="lembrarLogin" value="loginAutomatico"> Permanecer conectado
+                    </label>
+                    <br>
+                    <div id="btnCadLog">
+                        <button class="btn btn-lg btn-primary" type="submit" style="float: left;">Entrar</button>
+                        <button class="btn btn-lg btn-success" type="button" onclick="javascript:window.location.href='./cadastroUsuario.php'">Cadastrar-se</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
